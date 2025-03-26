@@ -1,4 +1,4 @@
-#declaracion de la funcio
+#declaracion de la funcion
 def sumar (a,b):
     return a + b
 
